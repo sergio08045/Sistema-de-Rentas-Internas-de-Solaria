@@ -1,5 +1,4 @@
 # Sistema-de-Rentas-Internas-de-Solaria
-<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8" />
